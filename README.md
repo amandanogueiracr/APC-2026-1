@@ -1,12 +1,32 @@
-# APC-2026-1
-Portifólio público da turma 07 da disciplina Algoritmos e Programação de Computadores da UnB no semestre 2026.1
+👨‍💻 Portfólio Acadêmico
 
-Apresentação
-Olá me chamo Jamil, sou graduado em Ciências Contabeis, e agora realizando o curso de Licenciatura em Computação, escolhi este curso pois ao longo de minha jornada não pude usufruir de oportunidades que seriam do meu interesse,
-por não ter uma formação em ciências exatas e este curso tem duplo significado aos meu objetivos visto que também é uma licenciatura.
+Turma 07 – Algoritmos e Programação de Computadores
+Universidade de Brasília (UnB) | Semestre 2026.1
 
-Lista de Projetos
-No momento não possuo pratica com programação espero no decorrer do curso aprender alguma linguagem de programação e por em pratica.
+📌 Sobre mim
 
-Reflexões
-Desejo um ótimo curso para todos. E podem contar comigo!
+Olá! Me chamo Jamil.
+
+Sou graduado em Ciências Contábeis e atualmente no curso de Licenciatura em Computação.
+
+Optei por essa nova formação porque, ao longo da minha trajetória, não tive a oportunidade de explorar áreas de grande interesse pessoal, especialmente no campo das ciências exatas e tecnologia.
+
+Este curso possui um significado especial para mim, pois une dois objetivos importantes:
+
+💡 Desenvolvimento de habilidades técnicas em computação
+📚 Formação como educador na área de tecnologia
+🚀 Projetos
+
+Atualmente, ainda não possuo experiência prática em programação.
+
+No entanto, este espaço será utilizado para registrar minha evolução ao longo da disciplina, com a inclusão de projetos, exercícios e experimentações em diferentes linguagens de programação.
+
+🔜 Em breve: primeiros projetos!
+
+💭 Reflexões
+
+Estou iniciando essa jornada com grande expectativa de aprendizado e crescimento.
+
+Acredito na importância da colaboração e troca de conhecimentos, por isso estou aberto a interações e parcerias ao longo do curso.
+
+🤝 Contem comigo!
